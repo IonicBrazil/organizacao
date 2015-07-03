@@ -6,10 +6,10 @@ com desenvolvimento de produtos digitais.
 
 ### O que é Ionic Brazil?
 
-Somos uma comunidade de desenvolvedores que usam o Ionic SDK como base para desenvolvimento, usamos o Ionic
-apenas como pretexto para aproximar e promover trocas de experiência entre desenvolvedores de aplicativos híbridos,
-desenvolvedores nativos de iOS, Android, Windows Phone entre outras, empreendedores e investidores interessados que 
-acreditam e conhecem o poder que temos com aplicações híbridos e a Web Platform
+Somos uma comunidade de desenvolvedores nos quais usamos o Ionic SDK como base para desenvolvimento, porém o mesmo serve
+apenas como pretexto para aproximar e promover trocas de experiências entre desenvolvedores de aplicativos híbridos,
+desenvolvedores nativos de iOS, Android, Windows Phone entre outros, como empreendedores e investidores interessados que 
+acreditam e conhecem o poder que temos com aplicações híbridos e a Web Platform.
 
 ### Objetivo deste repositório
 
