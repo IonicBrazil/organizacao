@@ -49,22 +49,25 @@ projetos grandes e escaláveis com Ionic SDK
 
 ### Entre em contato
 
-Para entrar em contato, informe o assunto, e detalhe bem sua sugestão, dúvida, proposta de parceria,
+Para entrar em contato informe o assunto e detalhe bem sua sugestão, dúvida, proposta de parceria,
 ou criação de grupos locais. [Acesse a página de contato](https://github.com/IonicBrazil/organizacao/issues/new)
-e lembre-se que todas as mensagens são **publicas** e **não** deletáveis.
+e lembre-se que todas as mensagens são **públicas** e **não** deletáveis.
 
 ### Quero participar
 
-Tudo o que acontece na organização é refletida nas issues deste repositório, portanto para saber como ajudar, procure as issues com [label projetos](https://github.com/IonicBrazil/organizacao/labels/org%3Aprojetos), identifique algum projeto que te interesse, e veja os comentários sobre o projeto, comente na próxima issue do projeto expono seu interesse em ajudar no projeto
+Tudo o que acontece na organização é refletida nas issues deste repositório, portanto para saber como ajudar, procure as issues com [label projetos](https://github.com/IonicBrazil/organizacao/labels/org%3Aprojetos), identifique algum projeto que te interesse, e veja os comentários sobre o projeto, comente na próxima issue do projeto expondo seu interesse em ajudar no projeto
 
 ### Como ser um colaborador?
 
-Nós dividimos vários times do Ionic Brazil, por suas regiões, assim esperamos aproximar os profissionais próximos 
+Nós dividimos vários times do Ionic Brazil, por suas regiões, assim esperamos aproximar os profissionais 
 e promover atividades entre eles em prol da troca de experiência e colaboração nos projetos de interesse.
 
-Para solicitar entrar no Team da sua região, ou até mesmo iniciar o Team da sua região, acesse a issue de [solicitação de enteresse](https://github.com/IonicBrazil/organizacao/issues/1#issue-91920650) em ser colaborador
+Para solicitar a entrada em uma equipe da sua região, ou até mesmo iniciar uma, acesse essa [issue de solicitação de interesse](https://github.com/IonicBrazil/organizacao/issues/1#issue-91920650) e deixe seu comentário, incluiremos você com colaborador dentro da organização.
 
 ### Como colaborar
 
 Você pode propor alterações a este documento editando-o através do GitHub na Web ou em seu computador e [enviar um Pull Request para o repositório](https://help.github.com/articles/using-pull-requests/)
+
+Em caso de dúvidas nos envie uma mensagem no Twitter @IonicBrazil que te ajudaremos
+
 > TODO Escrever um mardown, "Como sugerir melhorias em arquivos e enviar Pull Requests no site do GitHub" ([issue](https://github.com/IonicBrazil/ionicbrazil.com/issues/8))
