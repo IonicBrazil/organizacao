@@ -13,7 +13,7 @@ acreditam e conhecem o poder que temos com aplicações híbridos e a Web Platfo
 
 ### Objetivo deste repositório
 
-Somos uma comunidade, porém preferímos ser chamados de Organização. Usamos o GitHub como base para nossas decisões,
+Somos uma comunidade, porém preferimos ser chamados de Organização. Usamos o GitHub como base para nossas decisões,
 e aplicamos as mesmas técnicas de um projeto Open Source as decisões da organização.
 
 Aqui, usamos as issues como mailing list, contato, sugestões, e para tudo que envolver o Ionic Brazil, com isso esperamos 
@@ -28,13 +28,12 @@ decidirmos qual caminho a organização deveria seguir.
 
 *Longa:* Nossa missão é
 
-1. melhorar e construir ferramentas que auxilie profissionais Web a desenvolverem para todas 
-as platformas do mercado com a Web Platform
-1. Fornecer treinamentos, cursos, workshops, artigos, de alta qualidade
+1. melhorar e construir ferramentas que auxiliem profissionais Web a desenvolverem para todas 
+as plataformas do mercado com a Web Platform
+1. Fornecer treinamentos, cursos, workshops e artigos de alta qualidade
 para profissionais que querem aprimorar suas habilidades e conhecimentos de ferramentas com obejtivo de desenvolver 
 com a Web Platform
-1. Impulsionar projetos Open Source com potencial de auxiliarem desenvolvedores e 
-empreendedores a serem mais criativos a segurança no trabalho,  o dia-a-dia de um desenvolvedor
+1. Impulsionar projetos Open Source com potencial de auxiliarem o dia-a-dia de um desenvolvedor
 1. Aproximar desenvolvedores, empreendedores e investidores de todo o Brasil
 
 ## Nossos projetos
